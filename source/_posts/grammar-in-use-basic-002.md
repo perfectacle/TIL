@@ -69,8 +69,9 @@ A: (`It is` expensive) in the peak season.
 뭔가 When으로 Question 만드는 게 제일 어려웠다.  
 
 Where, What, Who, How, Why + Be 동사(아마 present, 단수일 경우에는 제약사항이 없는 걸로 확인 했습니다.) 같은 경우에는 다 줄일 수 있다.  
-`Where is` my car? -> `Where's` my car?  
-`What is` your problem? -> `What's` your problem?  
+`Where is` my car? -> `Where's` my car?
+`What is` your problem? -> `What's` your problem?
+`Whata` color `is` your bag? (줄이지 못함, 의문사와 동사가 떨어져있으므로)  
 `Who is` the best? -> `Who's` the best?  
 `How are` you doing? `How're` you doing?
 
