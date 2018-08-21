@@ -1,15 +1,16 @@
 ---
-title: Grammar in Use: Basic - Questions (am/is/are)
+title: Grammar in Use, Basic - Questions (am/is/are)
 date: 2018-08-22 00:55:46
 tags: [English]
 ---
-기본적으로 Question은 주어 + 동사의 순서를 바꿔서 `동사 + 주어`의 형태가 된다.
+## Question
+기본적으로 Question(Question Sentence, 의문문) 주어 + 동사의 순서를 바꿔서 `동사 + 주어`의 형태가 된다.
 
 I `am` a boy. -> `Am` I a boy?
 I `am` married. -> `Am` I married?
 You `are` a student. -> `Are` you a student?
 
-기본적으로 Question에 동사가 들어갔으면, Answer에서도 같은 동사로 답해야한다.  
+기본적으로 Question에 사용한 종류의 동사로 Answer에서도 같은 동사로 답해야한다.  
 Be 동사로 물어봤으면 대답할 때도 Be 동사가 들어가야한다.
 
 Q: `Are` you a programmer?  
@@ -44,9 +45,10 @@ A: Yes, I `am` (sure)
 
 부정의 의미로 대답할 때는 다 not을 붙인다.
 
-Question이 모두 동사 + 주어 형태로 구성되는 건 아니다.  
-의문사(Where, What, Who, How, Why, When, Which, etc.)를 쓰면 `의문사(주어) + 동사` 형태로 쓸 수 있다.  
-주로 Yes or No로 대답할 수 없는 Question이라고 보면 될 것 같다.
+## [Interrogative](https://en.wikipedia.org/wiki/Interrogative)
+[의문문](#Question)이 모두 동사 + 주어 형태로 구성되는 건 아니다.  
+의문사(Interrogative)를 쓰면 `의문사(주어) + 동사` 형태로 쓸 수 있다.  
+주로 Yes or No로 대답할 수 없는 의문문이라고 보면 될 것 같다.
 
 Q: `Where is` my car?
 A: `Your car is` in the garage. (~~Your car is at garage.~~)  
@@ -68,7 +70,7 @@ Q: `When is` the hotel expensive?
 A: (`It is` expensive) in the peak season.
 뭔가 When으로 Question 만드는 게 제일 어려웠다.  
 
-Where, What, Who, How, Why + Be 동사(아마 present, 단수일 경우에는 제약사항이 없는 걸로 확인 했습니다.) 같은 경우에는 다 줄일 수 있다.  
+다음과 같이 줄임말을 사용할 수도 있다.  
 `Where is` my car? -> `Where's` my car?
 `What is` your problem? -> `What's` your problem?
 `Whata` color `is` your bag? (줄이지 못함, 의문사와 동사가 떨어져있으므로)  
@@ -78,7 +80,7 @@ Where, What, Who, How, Why + Be 동사(아마 present, 단수일 경우에는 �
 물론 `How're`는 되지만, [What're는 거의 쓰지 않는다는 글](https://top.quora.com/Is-whatre-a-proper-contraction)도 있고,    
 When/Why 등등은 아예 줄임말이 없는 것 같다.
 
-의문점
+## 의문점
 1. Is it cold `in` your room? 보다 Is it cold your room?이 더 맞는 표현 같은데 아닌가??  
 2. 이 챕터에서 배운 Be 동사 + 주어 형태의 Question은 Yes or No 형태로 답할 수 있는 질문(닫힌 질문)을 뜻하고,  
 의문사가 들어간 Question은 Yes or No 형태로 답할 수 없는 질문(열린 질문)인가?
