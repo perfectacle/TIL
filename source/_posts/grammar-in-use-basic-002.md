@@ -4,7 +4,7 @@ date: 2018-08-22 00:55:46
 tags: [English]
 ---
 ## Question
-기본적으로 Question(Question Sentence, 의문문) 주어 + 동사의 순서를 바꿔서 `동사 + 주어`의 형태가 된다.
+기본적으로 Question(Question Sentence, 의문문) Plain Sentence(평문)의 형태인 `주어 + 동사`의 순서를 바꿔서 `동사 + 주어`의 형태가 된다.
 
 I `am` a boy. -> `Am` I a boy?
 I `am` married. -> `Am` I married?
