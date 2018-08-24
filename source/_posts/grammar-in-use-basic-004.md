@@ -1,7 +1,10 @@
 ---
-title: Grammar in Use, Basic - Present Continuous Questions (are you doing?)
-tags: [English]
+title: 'Grammar in Use, Basic - Present Continuous Questions (are you doing?)'
+tags:
+  - English
+date: 2018-08-24 11:27:31
 ---
+
 ## Present Continuous Questions
 일반적인 Present Continuous는 `주어 + be동사 + v-ing`이지만,
 Present Continuous `Questions`는 주어와 Be 동사 순서를 바꾼 `be동사 + 주어 + v-ing`이다.
