@@ -1,4 +1,4 @@
 ---
-title: java-class-loaders
-tags:
+title: (Java) Class Loaders
+tags: [classloaders]
 ---
