@@ -41,17 +41,18 @@ HTTP 1.1에서는 [Keep-Alive](https://tools.ietf.org/html/rfc7230#appendix-A.1.
 ## HTTP/2 vs Websocket vs SSE(Server-Sent Events)
 1. HTTP/2  
 위에 제시한 1번과 3번의 문제를 해결했다.  
+한번 요청하면(html) 관련된 파일(css/js/이미지 등등)을 한번에 쭉 응답한다.
 static file을 주로 서빙한다고 생각하면 된다.  
 json을 주고받는 api는 Websocket이나 SSE가 담당한다고 보면 될 듯...  
 2. Websocket  
-위에 제시한 1, 2, 3번의 문제를 해결했다.  
+위에 제시한 2, 3번의 문제를 해결했다.  
 클라 <-> 서버 쌍방향 통신이 가능하다.  
 Websocket은 굉장히 정보가 적고 Low Level이다.  
 따라서 Websocket은 확장성을 고려해 [sub-protocol](https://tools.ietf.org/html/rfc6455#section-1.9)에 대한 내용이 있고,  
 Websocket의 High Level인(sub-protocol인) [STOMP](https://stomp.github.io/)와 같은 걸 사용해보면 좀 더 사용하기가 쉬울 것이다.  
 Websocket은 간단한 메세지만 주고 받아야지 file의 전송은 무리일 것이다.
 3. SSE  
-위에 제시한 1, 2, 3번의 문제를 해결했다.  
+위에 제시한 2, 3번의 문제를 해결했다.  
 하지만 클라 <- 서버 단방향 통신이다.  
 서버에서 보내기만 할 수 있다.  
 SSE는 간단한 메세지만 push해야지 file의 전송은 무리일 것이다.
